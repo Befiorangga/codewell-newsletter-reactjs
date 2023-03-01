@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/practice-reactjs/static/css/main.f7284d11.css",
-    "main.js": "/practice-reactjs/static/js/main.18dca051.js",
-    "static/media/Background.png": "/practice-reactjs/static/media/Background.601a32afa602b25bf22a.png",
-    "static/media/Pattern.png": "/practice-reactjs/static/media/Pattern.1dbff85ce56b4f150725.png",
-    "static/media/UserAvatar.svg": "/practice-reactjs/static/media/UserAvatar.0662a2bf3eba47fb4e6b4b9f35b5da28.svg",
-    "index.html": "/practice-reactjs/index.html",
-    "main.f7284d11.css.map": "/practice-reactjs/static/css/main.f7284d11.css.map",
-    "main.18dca051.js.map": "/practice-reactjs/static/js/main.18dca051.js.map"
+    "main.css": "/codewell-newsletter-reactjs/static/css/main.7b7abf8b.css",
+    "main.js": "/codewell-newsletter-reactjs/static/js/main.cad3eacd.js",
+    "static/media/Background.png": "/codewell-newsletter-reactjs/static/media/Background.601a32afa602b25bf22a.png",
+    "static/media/Pattern.png": "/codewell-newsletter-reactjs/static/media/Pattern.1dbff85ce56b4f150725.png",
+    "static/media/UserAvatar.svg": "/codewell-newsletter-reactjs/static/media/UserAvatar.0662a2bf3eba47fb4e6b4b9f35b5da28.svg",
+    "index.html": "/codewell-newsletter-reactjs/index.html",
+    "main.7b7abf8b.css.map": "/codewell-newsletter-reactjs/static/css/main.7b7abf8b.css.map",
+    "main.cad3eacd.js.map": "/codewell-newsletter-reactjs/static/js/main.cad3eacd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7284d11.css",
-    "static/js/main.18dca051.js"
+    "static/css/main.7b7abf8b.css",
+    "static/js/main.cad3eacd.js"
   ]
 }
