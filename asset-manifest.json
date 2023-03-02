@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codewell-newsletter-reactjs/static/css/main.7b7abf8b.css",
+    "main.css": "/codewell-newsletter-reactjs/static/css/main.c67779b9.css",
     "main.js": "/codewell-newsletter-reactjs/static/js/main.cad3eacd.js",
     "static/media/Background.png": "/codewell-newsletter-reactjs/static/media/Background.601a32afa602b25bf22a.png",
     "static/media/Pattern.png": "/codewell-newsletter-reactjs/static/media/Pattern.1dbff85ce56b4f150725.png",
     "static/media/UserAvatar.svg": "/codewell-newsletter-reactjs/static/media/UserAvatar.0662a2bf3eba47fb4e6b4b9f35b5da28.svg",
     "index.html": "/codewell-newsletter-reactjs/index.html",
-    "main.7b7abf8b.css.map": "/codewell-newsletter-reactjs/static/css/main.7b7abf8b.css.map",
+    "main.c67779b9.css.map": "/codewell-newsletter-reactjs/static/css/main.c67779b9.css.map",
     "main.cad3eacd.js.map": "/codewell-newsletter-reactjs/static/js/main.cad3eacd.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b7abf8b.css",
+    "static/css/main.c67779b9.css",
     "static/js/main.cad3eacd.js"
   ]
 }
